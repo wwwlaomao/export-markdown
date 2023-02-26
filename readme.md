@@ -5,5 +5,5 @@
 Execute the following command to get help.
 
 ```bash
-./export-markdown.js -h
+node ./export-markdown.js -h
 ```
