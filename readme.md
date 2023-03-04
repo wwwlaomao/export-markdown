@@ -1,5 +1,7 @@
 # Export Markdown File to Other Format
 
+Export markdown file to html, pdf, png or jpg using command line.
+
 ## Usage
 
 Execute the following command to get help.
